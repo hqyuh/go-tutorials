@@ -1,0 +1,5 @@
+--- fix bug test
+go mod init <FOLDER_NAME>
+ex: go mod init cards
+
+https://www.golangprograms.com/
